@@ -1,0 +1,9 @@
+import usestate hooks
+creat a component ToDoForm
+two arrow function used
+1.handleChange:This is the function that will handle the local state’s changes. Every time a user types in the input box, the state will change to reflect the most recent input.
+2.handleSubmit:When a user hits ‘Enter’ or clicks the ‘Submit’ button, this function will fire to add the task to the toDoList array.
+
+test case 1:
+create a input field and enter task after click on submit the data added in above section.
+set a onChange event and call the handleChange function it return most recent value

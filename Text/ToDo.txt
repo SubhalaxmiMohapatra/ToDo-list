@@ -1,0 +1,9 @@
+create a ToDo component
+inside the component one arrow function present
+which return current target id
+function name:handleClick
+set a onChange event cand call the function
+a ternary operater used 
+className={todo.complete ? "todo strike" : "todo"}
+if task complete return strike otherwise only todo
+component used:ToDo

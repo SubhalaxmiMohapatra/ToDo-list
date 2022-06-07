@@ -1,0 +1,8 @@
+1.import ToDo component
+
+ This file is the container that holds all of our todos.
+ In our ToDoList, we will map over the todoList object that was passed down as props to
+ create individual todos.pass down the individual todo down as props to the ToDo component.
+ create a button named as Clear Completed
+ Test case 1:
+ when click on clear completed button all the completed task will be removed.

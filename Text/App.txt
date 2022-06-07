@@ -1,0 +1,11 @@
+To-do list project
+component imported in this files are
+1.ToDoForm
+2.Header
+3.ToDoList
+4.ToDo
+Create a component
+inside the component 3 arrow function present
+1.handleFilter : for delete task
+2.addTask : for add task
+3.handleToggle : for toggle on/off (if task completed toggle on otherwise off)
